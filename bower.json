@@ -1,6 +1,6 @@
 {
   "name": "samplesp",
-  "version": "~0.0.1",
+  "version": "0.0.1",
   "homepage": "https://github.com/selladurai14/sample_bower",
   "authors": [
     "Selladurai"
@@ -11,8 +11,7 @@
     "node"
   ],
   "keywords": [
-    "sample",
-    "bower"
+    "sample bower"
   ],
   "license": "MIT",
   "private": true,
